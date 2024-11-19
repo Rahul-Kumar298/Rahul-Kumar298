@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Rahul-Kumar
 - 👀 I’m interested in CODING
-- 🌱 I’m currently learning WEB Development and PYTHON
+- 🌱 I’m currently learning WEB Development , C and PYTHON
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me EMAIL ONLY, at rahulramrishi298@gmail.com
+- 📫 How to reach me EMAIL ONLY, at rahulkumar060609@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
